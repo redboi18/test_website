@@ -3,11 +3,14 @@
   src: url(minecraftia.ttf);
 }
 h1 {
-  color: #545454;
+  color: #ffffff;
   font-size: 30px;
   text-align: center;
-  text-shadow: 2px 2px #000000;
-  /* font-family: Lucida Sans Regular; */
+  font-weight: normal;
+  letter-spacing: 2px;
+
+  text-shadow: 4px 4px 0px rgb(0 0 0 / 0.5);
+
   font-family: Minecraftia;
   border-width: 2px;
   border-style: solid;
