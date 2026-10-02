@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Minecraftia;
+  src: url(minecraftia.ttf);
+}
+h1 {
+  color: #545454;
+  font-size: 30px;
+  text-align: center;
+  text-shadow: 2px 2px #000000;
+  /* font-family: Lucida Sans Regular; */
+  font-family: Minecraftia;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+}
+body {
+  background-color: #52bdff;
+  background-image: url("redcat.png");
+}
