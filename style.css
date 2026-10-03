@@ -16,9 +16,22 @@ h1 {
   border-style: solid;
   border-color: black;
 }
+
+#shockedsteve {
+  color: #52bdff;
+}
+
+mark {
+  background-color: #b4281e;
+  color: #000000;
+}
+
 body {
   background-color: #52bdff;
   background-image: url("images/redcat.png");
   background-size: 30%;
   background-position: center;
+
+  /*font-weight: normal;*/
+  /*font-family: Minecraftia;*/
 }
