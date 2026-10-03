@@ -9,7 +9,7 @@ h1 {
   font-weight: normal;
   letter-spacing: 2px;
 
-  text-shadow: 4px 4px 0px rgb(0 0 0 / 0.5);
+  text-shadow: 4px 4px 0 rgb(0 0 0 / 0.5);
 
   font-family: Minecraftia;
   border-width: 2px;
@@ -19,4 +19,6 @@ h1 {
 body {
   background-color: #52bdff;
   background-image: url("redcat.png");
+  background-size: 30%;
+  background-position: center;
 }
